@@ -1,6 +1,7 @@
 ### Hello world. Welcome to my GitHub profile
 
 <!-- BLOG-POST-LIST:START -->
+- [How to setup TypeScript for NodeJS project](https://dev.to/peterphan1996/how-to-setup-typescript-for-nodejs-project-3fnf)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **peterphan1996/peterphan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
