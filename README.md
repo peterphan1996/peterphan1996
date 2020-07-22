@@ -1,5 +1,7 @@
 ### Hello world. Welcome to my GitHub profile
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!--
 **peterphan1996/peterphan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
