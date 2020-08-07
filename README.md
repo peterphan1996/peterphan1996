@@ -1,5 +1,4 @@
 ## Hello world. Welcome to my GitHub profile
-___
 
 - 🌱 I’m currently learning everything about web development
 - ⚡ Fun fact: I love to sing and beatbox 🎤
