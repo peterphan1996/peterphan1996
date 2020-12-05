@@ -1,7 +1,7 @@
 ## Hello world. Welcome to my GitHub profile
 
 - 🌱 I’m currently learning everything about web development
-- ⚡ Fun fact: I love to sing and beatbox 🎤
+- ⚡ Fun fact: I love to sing, rap and beatbox 🎤
 
 
 ### 📝 My Latest Blog Posts
